@@ -1,0 +1,4 @@
+/assests filter=lfs diff=lfs merge=lfs -text
+src/assests/Israel4K.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assests/ISRAEL4KDRONE.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assests/LongIsraelSpedUp.mp4 filter=lfs diff=lfs merge=lfs -text
